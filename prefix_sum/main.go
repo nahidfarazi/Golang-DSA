@@ -2,6 +2,14 @@ package main
 
 import "fmt"
 
+/* 1. input 5 3
+	2. 2,4,6,7,8
+	3. 1 2, 2 5, 1 5.
+  2.output
+	1-> 6, 2-> 27, 3-> 27
+
+*/
+
 func main() {
 	var n, q int
 	fmt.Printf("array and query size: ")
